@@ -1,0 +1,29 @@
+.language-selected{
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 600px;
+    height: 40px;
+    border-radius: 75px;
+    background-color: orange;
+    margin-left: 20px;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+}
+.radios{
+    margin-right: 15px;
+}
+.problem-number{
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 300px;
+    height: 40px;
+    border-radius: 75px;
+    background-color: orange;
+    margin-left: 20px;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+}
